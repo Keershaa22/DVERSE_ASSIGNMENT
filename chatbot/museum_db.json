@@ -1,0 +1,73 @@
+{
+    "museum_info": {
+        "name": "GD Science Museum",
+        "location": "President Hall Building, Avinashi Rd, Coimbatore,India",
+        "contact": "+91 90873 00101",
+        "website": "https://gdmuseums.com/",
+        "history": "G D Naidu Charitable Trust was started by Mr. GD Naidu in 1950. His purpose was to start a charity and make it a perpetual entity for imparting knowledge and sharing information to the community.",
+        "facilities": {
+            "event_space": "Yes",
+            "stem_shop": "Yes",
+            "wheelchair_access": "Yes",
+            "parking": "Available"
+        },
+        "special_collections": [
+            {
+                "name": "Technological Innovations",
+                "description": "To present the scientific facts and technology in a simple and understandable manner so that people even without basic education can develop their own knowledge and curiosity towards science and engineering. ",
+                "location": "Gallery C"
+            },
+            {
+                "name": "Modern Car Collection",
+                "description": "A showcase of modern cars from the 20th century.",
+                "location": "Gallery D"
+            }
+        ],
+        "guided_tours": {
+            "availability": "Daily at 11:00 AM and 3:00 PM",
+            "price": "Rs.415 per person",
+            "duration": "1.5 hours"
+        },
+        "membership": {
+            "individual": "Rs.4150/year",
+            "family": "Rs.8300/year",
+            "benefits": [
+                "Free unlimited entry",
+                "10% discount at the stem shop",
+                "Exclusive access to member-only events"
+            ]
+        },
+        "accessibility": {
+            "wheelchair_rental": "Available at the entrance",
+            "sign_language_tours": "Available upon request",
+            "elevators": "Available on all floors"
+        }
+    },
+    "opening_hours": {
+        "Monday": "Closed",
+        "Tuesday": "10:00 AM - 6:00 PM",
+        "Wednesday": "10:00 AM - 6:00 PM",
+        "Thursday": "10:00 AM - 6:00 PM",
+        "Friday": "10:00 AM - 8:00 PM",
+        "Saturday": "10:00 AM - 8:00 PM",
+        "Sunday": "10:00 AM - 6:00 PM"
+    },
+    "ticket_prices": {
+        "adult": "Rs.1245",
+        "child": "Rs.664",
+        "student": "Rs.830",
+        "senior": "Rs.996"
+    },
+    "exhibitions": [
+        {
+            "name": "Vintage Cars",
+            "date": "March 1 - May 30, 2025",
+            "location": "Gallery A"
+        },
+        {
+            "name": "Ancient Cars",
+            "date": "June 1 - August 30, 2025",
+            "location": "Gallery B"
+        }
+    ]
+}
