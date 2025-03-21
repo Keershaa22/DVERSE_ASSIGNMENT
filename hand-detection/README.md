@@ -5,9 +5,13 @@ The Hand Detection and Gesture Recognition project is an advanced computer visio
 
 Tech Stack Used
 Python: Core programming language for implementing the project.
+
 OpenCV: For image processing and real-time hand tracking.
+
 MediaPipe: For efficient hand landmark detection.
+
 NumPy: For numerical computations.
+
 Machine Learning: Used for gesture classification and recognition.
 
 Project Summary
