@@ -11,7 +11,7 @@ JSON: Used to store and retrieve structured museum data.
 Project Summary :
 The chatbot leverages spaCy NLP to analyze user queries and fetch relevant information from a pre-defined JSON database containing museum details. The home page provides an overview of the museum along with an image, while the chatbot page enables visitors to ask questions in a user-friendly manner. The chatbot is designed to improve visitor engagement by offering instant responses related to museum facilities, timings, ticket prices, and special exhibits.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 About the Project: HAND RECOGNITION
 The Hand Detection and Gesture Recognition project is an advanced computer vision application that detects hands, tracks their movement, identifies fingers, and recognizes gestures in real time. This project enables interaction with digital interfaces through hand movements, making it useful for various applications like sign language interpretation, virtual controls, and human-computer interaction.
@@ -32,7 +32,7 @@ Gesture Recognition: Analyzes finger positions to interpret specific gestures.
 Main Application: Integrates all modules to provide a functional interface for gesture-based interaction.
 This project enhances interactive experiences by enabling seamless communication between users and digital systems using hand gestures.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 PROJECT: PARKINSONS DISEASE PREDICTION
