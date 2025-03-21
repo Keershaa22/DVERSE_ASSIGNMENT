@@ -6,8 +6,11 @@ The GD Car Museum Chatbot is an interactive web-based assistant designed to prov
 Tech Stack Used :
 
 Streamlit: For building the web application and chatbot interface.
+
 Python: The core programming language for the backend logic.
+
 spaCy: For natural language processing and query understanding.
+
 JSON: Used to store and retrieve structured museum data.
 
 Project Summary :
